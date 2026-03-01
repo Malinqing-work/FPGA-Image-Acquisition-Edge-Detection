@@ -1,0 +1,9 @@
+PIPELINE=2
+Q_PORT_WIDTH=16
+R_PORT_WIDTH=17
+WIDTH=32
+DEVICE_FAMILY="Cyclone II"
+clk
+radical
+q
+remainder

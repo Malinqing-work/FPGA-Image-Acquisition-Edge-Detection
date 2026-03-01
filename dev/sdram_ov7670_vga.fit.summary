@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Aug 03 22:07:21 2015
+Quartus II 64-Bit Version : 11.0 Build 208 07/03/2011 SP 1 SJ Full Version
+Revision Name : sdram_ov7670_vga
+Top-level Entity Name : sdram_ov7670_vga
+Family : Cyclone IV E
+Device : EP4CE6F17C8
+Timing Models : Final
+Total logic elements : 1,601 / 6,272 ( 26 % )
+    Total combinational functions : 1,475 / 6,272 ( 24 % )
+    Dedicated logic registers : 749 / 6,272 ( 12 % )
+Total registers : 749
+Total pins : 76 / 180 ( 42 % )
+Total virtual pins : 0
+Total memory bits : 29,392 / 276,480 ( 11 % )
+Embedded Multiplier 9-bit elements : 30 / 30 ( 100 % )
+Total PLLs : 1 / 2 ( 50 % )
